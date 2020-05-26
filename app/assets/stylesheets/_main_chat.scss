@@ -47,6 +47,7 @@
     height: calc(100vh - 100px - 90px);
     width: 100%;
     padding-top: 35px;
+    overflow: scroll;
 
     .main-list {
       width: 500px;
